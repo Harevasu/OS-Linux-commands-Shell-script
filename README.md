@@ -2,7 +2,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting 
-
+ 
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -130,8 +130,6 @@ cut -d "|" -f 1 file22
 1002
 1003
 ```
-
-
 cut -d "|" -f 2 file22
 ## OUTPUT
 ```
